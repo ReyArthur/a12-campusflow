@@ -5,8 +5,8 @@ Este repositório contém a solução do caso operacional da **Central Acadêmic
 ---
 Integrantes da Dupla
 
-Arthur da Rosa Larcerda
-Jefferson Carneiro
+# Arthur da Rosa Larcerda
+# Jefferson Carneiro
 ---
 
 ## Estrutura do Projeto
